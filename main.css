@@ -93,12 +93,6 @@
   margin: 0.5rem 0;
 }
 
-@media (min-width: 40rem) {
- .plan__list {
-  width: 100%;
-  display: inline-block;
-  text-align: center;
- }
 
   .plan {
     display: inline-block;
